@@ -12,7 +12,7 @@ Este sistema foi desenvolvido para a disciplina de **Desenvolvimento de Software
 
 - **Autenticação:** Cadastro e Login de usuários.
 - **Gestão de Tarefas (CRUD):** Crie, edite, exclua e marque tarefas como concluídas.
-- **Detalhamento de Tarefas:** Defina título descrição, data de início, data de entrega e tempo estimado para cada tarefa.
+- **Tela de Detalhamento da Tarefa:** Contém título, descrição, status e o que foi planejado executado (datas e tempo).
 - **Visualização e Filtros:** Visualize tarefas separadas por status (em andamento, atrasadas e concluídas).
 - **Foco:** Cronômetro Pomodoro integrado para auxiliar na gestão do tempo.
 - **Relatórios:** Relatórios de desempenho por semana, mês e ano.
